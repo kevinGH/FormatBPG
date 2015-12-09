@@ -1,0 +1,6 @@
+F:\TestCode\FormatBPG\BPG\BPG\bin\BPG.dll.config
+F:\TestCode\FormatBPG\BPG\BPG\bin\BPG.dll
+F:\TestCode\FormatBPG\BPG\BPG\bin\BPG.pdb
+F:\TestCode\FormatBPG\BPG\BPG\obj\Debug\BPG.csprojResolveAssemblyReference.cache
+F:\TestCode\FormatBPG\BPG\BPG\obj\Debug\BPG.dll
+F:\TestCode\FormatBPG\BPG\BPG\obj\Debug\BPG.pdb
